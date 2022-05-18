@@ -13,7 +13,7 @@ Prompt: Create a web application that allows students sign- up for college cours
 Notes about communication with Matthew in order to have evidence of his non-participation and an effort on our part to try and keep accountability
 (It is important to also mention that this is not to throw anyone under the bus. It is for information and to give insight into the issues.):
 
-5/11
+*** 5/11 ***
 
 Chelsea: "@mlanc15 Were you able to send the updates to Github so that we can write our discussion posts that are due today?"
 
@@ -32,19 +32,19 @@ Matthew: "Not sure, I'll figure it out sooner or later"
 Chelsea: "Ok, I hate that chat doesn't give any indication of tone,  but I'm sure  you mean that in a laid-back way and not in a flippant way. Remember that Marcus will need time to do his part as well. The grade for all of us could be affected by the failure of not being able to get the app to even load, though I'm sure the instructor will take into consideration the effort put forward by each team member on an individual basis."
 
 
-5/14
+***5/14***
 
 Matthew: "I need some help setting up the mongodb atlas collection. It won't let me login through the website."
 
 
-5/15
+***5/15***
 
 Chelsea: "I’m out of state spending time with family. If you’re having trouble logging into the website, try resetting your password."
 
 Matthew: "Figured it out, something was up with my internet connection to the website."
 
 
-5/16
+***5/16***
 
 Chelsea: "@mlanc15 Haven't heard from ya, so just checking in to make sure you remembered that the middleware portion is due tonight, then @DotDotDot the final version is due Wednesday. I really hate having to nag, but want to make sure that we're on top of this since the end of the semester is upon us."
 
@@ -81,10 +81,11 @@ Chelsea: "@mlanc15 Agreed, it's understandable. I'm sorry if I came across as ha
 Matthew: "Thank you for being understanding."
 
 
-5/17 - Date that the project is due
+***5/17 - Date that the project is due***
+
 Lauren @ 1507: "Hey @mlanc15 , just wanted to check in to see how things are going"
+
 Matthew @ 1706: "I'm caught up with some final exams at the moment"
 
-As of 5/17 @ 2124 there has been no further communication.
 
-
+As of 5/17 @ 2130 there has been no further communication.
